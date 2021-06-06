@@ -1,28 +1,17 @@
-# <p align = "center"> 🐼🐍 Python e Pandas para Análise de Dados Reais 🐍🐼
+# <p align = "center"> Análise de Dados do SUS de Santa Catarina
   
   [![Github](https://img.shields.io/badge/gustavolq-100000?style=plastic&logo=github&logoColor=white)](https://github.com/gustavolq)
   [![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra/)
   
-  Olá! Seja muito bem-vindo ao meu repositório referente ao **Módulo 1 - Python e Pandas para Análise de Dados Reais** do Bootcamp de Data Science Aplicada 2021 da [Alura](https://www.alura.com.br/).
+  Olá! Seja muito bem-vindo ao meu repositório referente ao projeto do **Módulo 1 - Python e Pandas para Análise de Dados Reais** do Bootcamp de Data Science Aplicada 2021 da [Alura](https://www.alura.com.br/).
   
-  A divisão desse repositório se encontra da seguinte forma :
-  - [Aulas](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_01/Aulas) : Notebook e datasets utilizados durante as aulas.
-  - [Projeto](https://github.com/gustavolq/Bootcamp-DataScience-Alura/tree/main/Modulo_01/Projeto) : Notebook e datasets utilizados para o projeto final do módulo.
-  
-  Para realizar as aulas e o projeto utilizamos o [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb), um serviço de nuvem da Google, onde podemos realizar a criação de Notebooks para realizar a criação de linhas de comandos em Python e textos.
-  
-  ## Mas Gustavo, o que é Python e Pandas? 🤔
-  [Python](https://www.python.org/) é uma linguagem de programação de alto nível (muito próximo à linguagem humana) criada por [Guido van Rossum](https://pt.wikipedia.org/wiki/Guido_van_Rossum) e implementada em 1991. A linguagem Python veio crescendo ao longo dos anos, sendo uma das mais utilizadas atualmente, muito devido à sua linguagem fácil de aprender e sua grande comunidade.
-  
-  Python, com o avanço da área de Big Data e Data Science, se tornou a linguagem de programação mais utilizada para esses campos. Python possuí ferramentas para **coletar, limpar, transformar, pré-processar, criar gráficos e dashboards e também realizar a criação de modelos de Inteligência Artificial**! Essas características explicam o porquê de ser a linguagem mais utilizada de programação atualmente.
- 
- E uma dessas ferramentas (chamamos de pacotes) que são utilizadas em Python é o pacote [Pandas](https://pandas.pydata.org/), voltado para a leitura, manipulação e visualização dos dados.
+  Para realizar o projeto utilizamos o [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb), um serviço de nuvem da Google, onde podemos realizar a criação de Notebooks para realizar a criação de linhas de comandos em Python e textos.
 
  # <p align="center"> 💻 Sobre o Projeto 💻
  
-<p align="left">
-  <img src = "https://blog.jaleko.com.br/wp-content/uploads/2018/11/jaleko-sus-810x693.png" width="500" height="300">
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Santa_Catarina.png" width="500" height="300">
+<p align="center">
+  <img src = "https://blog.jaleko.com.br/wp-content/uploads/2018/11/jaleko-sus-810x693.png" width="400" height="300">
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/1/10/Bandeira_de_Santa_Catarina.png" width="400" height="300">
 </p>
 
 ## Introdução
