@@ -80,4 +80,3 @@ A biotecnologia vem revolucionando a farmacologia. Um exemplo é a insulina, usa
 No futuro poderemos ter acesso a medicamentos feitos de maneira mais personalizada, de acordo com o genoma e com as características de cada um, conforme os avanços da farmacogenômia. Um exemplo disso foi o medicamento Milasen, desenvolvido especialmente para uma criança com Síndrome de Batten, uma doença rara e de origem genética.
 
 As pesquisas biomédicas estão cada vez mais interdisciplinares e sofisticadas e os dados gerados nesses estudos são cada vez mais volumosos e complexos, tornando a Ciência de Dados essencial no desenvolvimento da farmacologia.
-a
