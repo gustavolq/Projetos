@@ -24,6 +24,8 @@ Para realizar as aulas da Imersão de Dados da Alura, utilizamos o [Google Colab
 
 Para finalizar a semana de Imersão de Dados 2021, fomos convidados à realizar um projeto de Ciência de Dados voltado para a área de [Drug Discovery](https://en.wikipedia.org/wiki/Drug_discovery).
 
+Edit : Muito feliz em poder compartilhar que esse projeto foi um dos 10 selecionados para ganhar uma bolsa de 100% para a participação no Bootcamp de Ciência de Dados da Alura! 🏆🏆
+
 # <p align="center"> 💻 Sobre o Projeto 💻
 
 <p align="center">
