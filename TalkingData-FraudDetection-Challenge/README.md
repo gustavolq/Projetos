@@ -12,7 +12,7 @@ Olá! Seja muito bem-vindo ao meu repositório referente ao projeto de detecçã
 
 Para realização do projeto utilizei o Jupyter Notebook, um aplicativo open-source que permite a execução de células com códigos e textos, junto com a Linguagem R, uma linguagem estatística muito utilizada para a manipulação, análise e visualização de dados, assim como o desenvolvimento de Machine Learning.
 
- # **<p align="center"> 💻 Sobre o Projeto 💻**
+ # **<p align="center">  Projeto**
 ## **Introdução**
 O projeto de detecção de fraudes em cliques foi um desafio proposto na comunidade Kaggle, uma plataforma voltada para Cientistas de Dados e profissionais de aprendizado de máquina, pela empresa chinesa TalkingData no ano de 2018.
 
