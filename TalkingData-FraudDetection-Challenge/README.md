@@ -3,14 +3,13 @@
 
 [![Github](https://img.shields.io/badge/gustavolq-100000?style=plastic&logo=github&logoColor=white)](https://github.com/gustavolq)
 [![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plasticlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra)
-![R-Language](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 
 <img src = "https://www.thebeijinger.com/sites/default/files/thebeijinger/event-images/376094/screen_shot_2018-05-29_at_10.08.48_am.png">
 
 
 Olá! Seja muito bem-vindo ao meu repositório referente ao projeto de detecção de fraude de cliques da TalkingData.
 
-Para realização do projeto utilizei o Jupyter Notebook, um aplicativo open-source que permite a execução de células com códigos e textos, junto com a Linguagem R, uma linguagem estatística muito utilizada para a manipulação, análise e visualização de dados, assim como o desenvolvimento de Machine Learning.
+Para realização do projeto utilizei o Jupyter Notebook, um aplicativo open-source que permite a execução de células com códigos e textos, junto com a Linguagem Python, uma linguagem de programação muito utilizada para a manipulação, análise e visualização de dados, assim como o desenvolvimento de Machine Learning.
 
  # **<p align="center">  Projeto**
 ## **Introdução**
