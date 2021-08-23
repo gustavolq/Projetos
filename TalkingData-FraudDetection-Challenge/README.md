@@ -51,4 +51,4 @@ A TalkingData, maior plataforma de Big Data independente da China, cobre mais de
 
 Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores e desejam desenvolver ainda mais a solução a partir da criação de um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
 
-Caso você queira saber um pouco mais sobre a TalkingData, podes acessar o site da empresa clicando [aqui](https://www.talkingdata.com/)
+Caso você queira saber um pouco mais sobre a TalkingData, podes acessar o site da empresa clicando [aqui](https://www.talkingdata.com/).
