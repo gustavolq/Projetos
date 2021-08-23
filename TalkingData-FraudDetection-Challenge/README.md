@@ -2,7 +2,8 @@
 *19/08/2021 -*
 
 [![Github](https://img.shields.io/badge/gustavolq-100000?style=plastic&logo=github&logoColor=white)](https://github.com/gustavolq)
-[![linkedin](https://img.shields.io/badge/gustavoquadra-0077B5??style=plasticlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra)
+[![linkedin](https://img.shields.io/badge/gustavoquadra-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffd43b&color=306998)
 
 <img src = "https://www.thebeijinger.com/sites/default/files/thebeijinger/event-images/376094/screen_shot_2018-05-29_at_10.08.48_am.png">
 
