@@ -27,7 +27,7 @@ Para a realização do projeto, seguiremos o seguinte planejamento :
 <b> 2.</b> Definição do Problema de Negócio </br>
 <b> 3.</b> Preparação dos Dados </br>
 <b> 4.</b> Análise Exploratória dos Dados </br>
-<b> 5.</b> Pré-Processamento
+<b> 5.</b> Pré-Processamento </br>
 <b> 6.</b> Criação do Modelo de Machine Learning </br>
 <b> 7.</b> Otimização do Modelo de Machine Learning </br>
 <b> 8.</b> Conclusão </br>
