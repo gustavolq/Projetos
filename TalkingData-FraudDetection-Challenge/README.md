@@ -39,13 +39,11 @@ Iremos utilizar os seguintes dados para o projeto :
 - train.csv : Dados de treino com 184.903.891 linhas e 8 colunas.
 - test.csv : Dados de teste com 18.790.470 linhas e 7 colunas.
 
-Para melhor organização e poder processar em máquinas com baixa memória RAM irei realizar a divisão do train.csv e test.csv em 5 arquivos menores, sendo :
-- train.csv : Dividido em 5 arquivos com 36.980.778 linhas cada
-- test.csv : Dividido em 5 arquivos com 3.758.094 linhas cada
+Estarei disponibilizando na pasta [Data]() desse repositório os arquivos após as operações de transformação / limpeza / amostragem.
 
-Os arquivos separados estarão disponibilizados na pasta [Data]() desse repositório.
+# **<p align="center"> TalkingData**
 
-# **<p align="center"> Um pouco sobre a TalkingData**
+<img align="left" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/TalkingDataGif.gif?raw=true" width="400" height="300"/>
 
 A TalkingData, maior plataforma de Big Data independente da China, cobre mais de 70% dos dispositivos móveis ativos em todo o país, lidando com 3 bilhões de cliques por dia, dos quais 90% são potencialmente fraudulentos. Sua abordagem atual para impedir fraudes de cliques para desenvolvedores de aplicativos é medir a jornada do clique de um usuário em todo o portfólio e sinalizar endereços IP que produzem muitos cliques, mas nunca acabam instalando aplicativos. Com essas informações, eles criaram uma lista negra de IPs e uma lista negra de dispositivos.
 
