@@ -1,26 +1,27 @@
-# <p align = "center"> **TalkingData AdTracking Fraud Detection Challenge**
+## **Bem-vindo ao projeto TalkingData AdTracking Fraud Detection Challenge!** 😄
 *19/08/2021 -*
 
-[![Github](https://img.shields.io/badge/gustavolq-100000?style=plastic&logo=github&logoColor=white)](https://github.com/gustavolq)
-[![linkedin](https://img.shields.io/badge/gustavoquadra-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoquadra)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=ffd43b&color=306998)
+<img align="right" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/TalkingDataGif.gif?raw=true" width="400" height="300"/>
 
-<img src = "https://www.thebeijinger.com/sites/default/files/thebeijinger/event-images/376094/screen_shot_2018-05-29_at_10.08.48_am.png">
+Olá! Seja muito bem-vindo ao meu repositório referente ao projeto de detecção de fraude de cliques da [TalkingData](https://www.talkingdata.com/).
 
+A TalkingData, considerada a maior plataforma de Big Data independente da China, lida com 3 bilhões de cliques, onde 90% são potencialmente fraudulentos, por dia em 70% dos dispositivos móveis ativos da China. Atualmente, a TalkingData mede a jornada do clique de um usuário e sinaliza endereços IPs que produzem muitos cliques, mas nunca instalam aplicativos. Com essa informação, criaram uma lista negra de IPs e dispositivos.
 
-Olá! Seja muito bem-vindo ao meu repositório referente ao projeto de detecção de fraude de cliques da TalkingData.
+Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores e desejam desenvolver ainda mais a solução a partir da criação de um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
 
-Para realização do projeto utilizei o Jupyter Notebook, um aplicativo open-source que permite a execução de células com códigos e textos, junto com a Linguagem Python, uma linguagem de programação muito utilizada para a manipulação, análise e visualização de dados, assim como o desenvolvimento de Machine Learning.
+## **Sobre o Projeto** 📓
 
- # **<p align="center">  Projeto**
-## **Introdução**
-O projeto de detecção de fraudes em cliques foi um desafio proposto na comunidade Kaggle, uma plataforma voltada para Cientistas de Dados e profissionais de aprendizado de máquina, pela empresa chinesa TalkingData no ano de 2018.
+### **Introdução**
+O projeto de detecção de fraudes em cliques foi um desafio proposto pela empresa chinesa TalkingData no ano de 2018 na comunidade Kaggle, uma plataforma voltada para Cientistas de Dados e profissionais de Inteligência Artificial.
 
 Caso você queira verificar o desafio proposto no Kaggle, podes clicar [aqui](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection) para acessar a página.
 
-## **Objetivo do Projeto**
-O objetivo desse projeto será realizar a criação de um modelo de aprendizado de máquina para determinar se um clique em um anúncio é fraudulento ou não.
-## **Planejamento do Projeto**
+### **Objetivo do Projeto**
+O objetivo desse projeto será realizar a criação de um modelo de aprendizado de máquina (:robot:) para determinar se um clique em um anúncio é fraudulento ou não.
+
+<img align="left" alt="GIF" src="https://blog.maxieduca.com.br/wp-content/uploads/2019/02/gif-planejamento.gif" width="400" height="300"/>
+
+### **Planejamento do Projeto**
 Para a realização do projeto, seguiremos o seguinte planejamento :
 
 <b> 1.</b> Introdução </br>
@@ -30,23 +31,26 @@ Para a realização do projeto, seguiremos o seguinte planejamento :
 <b> 5.</b> Pré-Processamento </br>
 <b> 6.</b> Criação do Modelo de Machine Learning </br>
 <b> 7.</b> Otimização do Modelo de Machine Learning </br>
-<b> 8.</b> Conclusão </br>
+<b> 8.</b> Conclusão </br> </br>
 
-## **Dados Utilizados no Projeto**
+### **Dados Utilizados no Projeto**
 Os dados utilizados no projeto foram disponibilizados pela TalkingData através da página da competição Kaggle e você pode acessar clicando [aqui](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data).
 
 Iremos utilizar os seguintes dados para o projeto :
 - train.csv : Dados de treino com 184.903.891 linhas e 8 colunas.
 - test.csv : Dados de teste com 18.790.470 linhas e 7 colunas.
 
-Estarei disponibilizando na pasta [Data]() desse repositório os arquivos após as operações de transformação / limpeza / amostragem.
+Estarei disponibilizando na pasta [Data](https://github.com/gustavolq/Projects/tree/main/TalkingData-FraudDetection-Challenge/Data) desse repositório os arquivos após as operações de transformação / limpeza / amostragem.
 
-# **<p align="center"> TalkingData**
+## Tecnologias Utilizadas no Projeto 💻
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png"> <br/> <br/>
 
-<img align="left" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/TalkingDataGif.gif?raw=true" width="400" height="300"/>
+## Entre em contato comigo! 📫
+Se você tiver alguma dúvida referente ao projeto ou queira bater um papo comigo, sinta-se livre para clicar no ícone e me contatar! :)
 
-A TalkingData, maior plataforma de Big Data independente da China, cobre mais de 70% dos dispositivos móveis ativos em todo o país, lidando com 3 bilhões de cliques por dia, dos quais 90% são potencialmente fraudulentos. Sua abordagem atual para impedir fraudes de cliques para desenvolvedores de aplicativos é medir a jornada do clique de um usuário em todo o portfólio e sinalizar endereços IP que produzem muitos cliques, mas nunca acabam instalando aplicativos. Com essas informações, eles criaram uma lista negra de IPs e uma lista negra de dispositivos.
+[<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail] 
+[<img align="left" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png?raw=true" />][LinkedIn] <br/>
 
-Embora bem-sucedidos, eles querem estar sempre um passo à frente dos fraudadores e desejam desenvolver ainda mais a solução a partir da criação de um algoritmo que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
-
-Caso você queira saber um pouco mais sobre a TalkingData, podes acessar o site da empresa clicando [aqui](https://www.talkingdata.com/).
+[Gmail]: mailto:gglquadra@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/gustavoquadra/
