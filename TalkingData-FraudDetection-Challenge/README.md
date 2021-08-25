@@ -43,8 +43,8 @@ Iremos utilizar os seguintes dados para o projeto :
 Estarei disponibilizando na pasta [Data](https://github.com/gustavolq/Projects/tree/main/TalkingData-FraudDetection-Challenge/Data) desse repositório os arquivos após as operações de transformação / limpeza / amostragem.
 
 ## Tecnologias Utilizadas no Projeto 💻
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png">
-<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png"> <br/> <br/>
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png?raw=true">
+<img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png?raw=true"> <br/> <br/>
 
 ## Entre em contato comigo! 📫
 Se você tiver alguma dúvida referente ao projeto ou queira bater um papo comigo, sinta-se livre para clicar no ícone e me contatar! :)
