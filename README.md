@@ -11,8 +11,8 @@ To view the project, click on the respective language you want in the "Languages
 ## Contact Me! 📫
 If you have any questions about the projects or would like to chat with me, feel free to click on the icons to contact me :)
 
-[<img align="center" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png" />][Gmail] <-- Send email or View LinkedIn -->
-[<img align="center" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png" />][LinkedIn] <br/>
+[<img align="center" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail] <-- Send email or View LinkedIn -->
+[<img align="center" alt="LinkedIn" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Linkedin.png?raw=true" />][LinkedIn] <br/>
 
 <h2>Data Science Projects 🤖</h2>
 <table>
