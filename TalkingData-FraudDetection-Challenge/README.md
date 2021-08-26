@@ -19,7 +19,7 @@ Caso você queira verificar o desafio proposto no Kaggle, podes clicar [aqui](ht
 ### **Objetivo do Projeto**
 O objetivo desse projeto será realizar a criação de um modelo de aprendizado de máquina (:robot:) para determinar se um clique em um anúncio é fraudulento ou não.
 
-<img align="left" alt="GIF" src="https://blog.maxieduca.com.br/wp-content/uploads/2019/02/gif-planejamento.gif" width="400" height="300"/>
+<img align="left" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/Planejamento.gif?raw=true" width="400" height="300"/>
 
 ### **Planejamento do Projeto**
 Para a realização do projeto, seguiremos o seguinte planejamento :
