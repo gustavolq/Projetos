@@ -30,8 +30,8 @@ Para a realização do projeto, seguiremos o seguinte planejamento :
 <b> 4.</b> Análise Exploratória dos Dados </br>
 <b> 5.</b> Pré-Processamento </br>
 <b> 6.</b> Criação do Modelo de Machine Learning </br>
-<b> 7.</b> Otimização do Modelo de Machine Learning </br>
-<b> 8.</b> Conclusão </br> </br>
+<b> 7.</b> Conclusão </br>
+<b> 8.</b> Entre em Contato Comigo! </br> </br>
 
 ### **Dados Utilizados no Projeto**
 Os dados utilizados no projeto foram disponibilizados pela TalkingData através da página da competição Kaggle e você pode acessar clicando [aqui](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data).
@@ -40,7 +40,13 @@ Iremos utilizar os seguintes dados para o projeto :
 - train.csv : Dados de treino com 184.903.891 linhas e 8 colunas.
 - test.csv : Dados de teste com 18.790.470 linhas e 7 colunas.
 
-Estarei disponibilizando na pasta [Data](https://github.com/gustavolq/Projects/tree/main/TalkingData-FraudDetection-Challenge/Data) desse repositório os arquivos após as operações de transformação / limpeza / amostragem.
+Para reproduzir o estudo, você pode baixar os dados em [Kaggle](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data), realizar a divisão dos dados em um terminal shell com os comandos abaixo.
+
+```split train.csv -l 36980778``` ---> Divide em 5 arquivos com 36980778 linhas cada.
+
+```split test.csv -l 3758094``` ---> Divide em 5 arquivos com 3758094 linhas cada.
+
+Devido à limitação de upload no GitHub, irei disponibilizar na pasta [Data](https://github.com/gustavolq/Projects/tree/main/TalkingData-FraudDetection-Challenge/Data) os dados de treino após a realização dos processos de separação / amostragem / limpeza e os 5 pedaços divididos dos dados de teste.
 
 ## Tecnologias Utilizadas no Projeto 💻
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png?raw=true">
