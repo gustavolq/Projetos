@@ -1,5 +1,4 @@
 ## **Bem-vindo ao projeto TalkingData AdTracking Fraud Detection Challenge!** 😄
-*19/08/2021 -*
 
 <img align="right" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/TalkingDataGif.gif?raw=true" width="400" height="300"/>
 
