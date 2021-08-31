@@ -21,7 +21,7 @@ If you have any questions about the projects or would like to chat with me, feel
     <th>Title</th>
     <th>Description</th>
     <th>Keywords</th>
-    <th>Languages and Tools</th>
+    <th>Technologies and Tools</th>
     <th>Languages Version</th>
   </tr>
   
