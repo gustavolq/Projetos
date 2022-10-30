@@ -18,7 +18,7 @@ Caso você queira verificar o desafio proposto no Kaggle, podes clicar [aqui](ht
 ### **Objetivo do Projeto**
 O objetivo desse projeto será realizar a criação de um modelo de aprendizado de máquina (:robot:) para determinar se um clique em um anúncio é fraudulento ou não.
 
-<img align="left" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/Planejamento.gif?raw=true" width="400" height="300"/>
+<img align="right" alt="GIF" src="https://github.com/gustavolq/Projects/blob/main/TalkingData-FraudDetection-Challenge/assets/Planejamento.gif?raw=true" width="400" height="300"/>
 
 ### **Planejamento do Projeto**
 Para a realização do projeto, seguiremos o seguinte planejamento :
@@ -30,7 +30,7 @@ Para a realização do projeto, seguiremos o seguinte planejamento :
 <b> 5.</b> Pré-Processamento </br>
 <b> 6.</b> Criação do Modelo de Machine Learning </br>
 <b> 7.</b> Conclusão </br>
-<b> 8.</b> Entre em Contato Comigo! </br> </br>
+<b> 8.</b> Entre em Contato Comigo! </br>
 
 ### **Dados Utilizados no Projeto**
 Os dados utilizados no projeto foram disponibilizados pela TalkingData através da página da competição Kaggle e você pode acessar clicando [aqui](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data).
@@ -47,11 +47,11 @@ Para reproduzir o estudo, você pode baixar os dados em [Kaggle](https://www.kag
 
 Devido à limitação de upload no GitHub, irei disponibilizar na pasta [Data](https://github.com/gustavolq/Projects/tree/main/TalkingData-FraudDetection-Challenge/Data) os dados de treino após a realização dos processos de separação / amostragem / limpeza e os 5 pedaços divididos dos dados de teste.
 
-## Tecnologias Utilizadas no Projeto 💻
+## **Tecnologias Utilizadas no Projeto** 💻
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Python.png?raw=true">
 <img align="left" height="35" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Visual-Studio.png?raw=true"> <br/> <br/>
 
-## Entre em contato comigo! 📫
+## **Entre em contato comigo!** 📫
 Se você tiver alguma dúvida referente ao projeto ou queira bater um papo comigo, sinta-se livre para clicar no ícone e me contatar! :)
 
 [<img align="left" alt="Gmail" height="27" width="27" src="https://github.com/gustavolq/gustavolq/blob/main/assets/Gmail.png?raw=true" />][Gmail] 
