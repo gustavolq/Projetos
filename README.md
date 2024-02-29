@@ -4,7 +4,7 @@ Este repositório armazena os projetos de *Data Science* desenvolvi durante a mi
 ## **Tópicos**
 
 ### **Análise Exploratória**
-- [Análise do SUS de Santa Catarina](SUS_SC-Analise/): Uma análise dos dados extraídos do DataSUS referente à População, Gastos no SUS, Internações e Óbitos dos munícipios do estado de Santa Catarina, buscando identificar correlações e realizar a formulação e respostas de hipóteses.
+- [Análise do SUS de Santa Catarina](SUS_SC-Analise/): Uma análise dos dados extraídos do DataSUS referente à população, gastos no SUS, internações e óbitos dos municípios do estado de Santa Catarina, buscando identificar correlações e realizar a formulação e respostas de hipóteses.
 - [Análise de Churn](Petlove_Churn-Analise/): Esse projeto se refere à etapa de *Business Case* do processo seletivo para a área de dados da empresa Petlove&CO e tem como objetivo analisar os dados da equipe de assinaturas e realizar a análise exploratória buscando entender os motivos do aumento de Churn.
 
 *Ferramentas: Python, Pandas, Seaborn, Matplotlib*
